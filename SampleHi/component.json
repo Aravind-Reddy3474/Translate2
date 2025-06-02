@@ -1,0 +1,11 @@
+{
+  "component": {
+    "search.request": "I understand that you're looking to translate specific strings in a JSON object into Hindi, focusing only on those that are currently empty. However, you haven’t provided the JSON object that requires translation. Please share that JSON content, and I will translate the empty values into Hindi while keeping all translations intact. Thank you!",
+    "search.reset": "I understand your request, but I still need the actual JSON object with the keys and values that need translation. Please provide that JSON object, and I will translate the empty values into Hindi while preserving any existing translations. Thank you for your patience!",
+    "search.export": "I appreciate your repeated instructions, but to assist you accurately, I still need the actual JSON object that you want me to work on. Please provide the JSON content, and I will help with the translations as you've described. Thank you!",
+    "search.name": "I understand that you want to translate specific keys into Hindi. However, I still don't have the JSON object that you would like to translate. Please provide the JSON object containing the keys and their corresponding values (including the empty ones), and I will fill in the translations for you. Thank you!",
+    "search.sex": "I understand your request, but I still need the actual JSON object that you would like me to work on. Please provide that JSON object, and I will assist you in translating the empty fields into Hindi while keeping the existing translations unchanged. Thank you for your cooperation!",
+    "search.male": "I understand that you would like me to translate strings in a JSON object into Hindi. However, in order to fulfill your request, I still need you to provide the actual JSON object that contains the strings to be translated. \n\nOnce you provide that JSON object, I'll be able to translate the empty values and return the updated JSON object to you. Thank you for your understanding!",
+    "search.female": "I understand your repeated instructions, but I still need the actual JSON object that you want to translate. Please provide the JSON object, and I will help with the translations according to your guidelines. Thank you!"
+  }
+}
